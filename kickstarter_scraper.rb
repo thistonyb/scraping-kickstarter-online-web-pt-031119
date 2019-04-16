@@ -7,6 +7,6 @@ def create_project_hash
   binding.pry
 end
 
-create_project_hash
+project = create_project_hash
 
 # projects: kickstarter.css("li.project.grid_4")
