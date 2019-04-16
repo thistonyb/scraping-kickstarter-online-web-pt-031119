@@ -31,4 +31,3 @@ def create_project_hash
   name = projects
   binding.pry
 end
-name
