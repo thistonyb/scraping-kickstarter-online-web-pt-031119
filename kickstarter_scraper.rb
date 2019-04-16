@@ -27,7 +27,7 @@ def create_project_hash
 
   end
   #Return project hash
-  projects
+  name = projects
 end
 projects
 binding.pry
