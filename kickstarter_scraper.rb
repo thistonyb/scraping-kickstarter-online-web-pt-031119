@@ -29,5 +29,5 @@ binding.pry
 
   #Return project hash
   name = projects
-  binding.pry
+
 end
